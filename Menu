@@ -1,6 +1,11 @@
-menu:
+<!DOCTYPE html>
+<html>
+<body>
+<h1> menu: <h1>
 saltimboxcca toastie
 green jaffle
 italian style toastie
 roasted vegetable panini
 chargrilled vegtable and silverside toasted sandwhiches
+<body>
+<html>
